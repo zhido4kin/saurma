@@ -1,0 +1,15 @@
+Chosen saurma type!
+Kebab: cheese - cheddar
+meat - pork
+pickle - +
+souce - mayonnaise
+tomato - -
+oregano - +
+greenery - +
+bread - +
+bacon - null
+
+Choose your size : 20cm, 30cm, 40cm, 50cm
+Size is not available
+Accept your order, press 1 - agree, press 2 - decline
+Thanks!
